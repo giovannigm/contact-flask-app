@@ -40,7 +40,7 @@ CREATE TABLE `contacts` (
 
 INSERT INTO `contacts` (`id`, `fullname`, `phone`, `email`) VALUES
 (49, 'giovanni', '094578516', 'giovanniantonygarcia@gmail.com'),
-(50, 'andres', '090123123', 'andres@gmail.com'),
+(50, 'pruebaaa', '090123123', 'prueba12@gmail.com'),
 (51, 'nicolas', '091234567', 'nico@gmail.com'),
 (52, 'prueba', '012345678', 'prueba@hotmail.com');
 
