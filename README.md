@@ -15,7 +15,7 @@ when you edit a contact it brings the person's data and can be modified
 - download xampp
 - run in terminal `python3 App.py`
 
-
+#
 
 ### Technologies used
 - Html
